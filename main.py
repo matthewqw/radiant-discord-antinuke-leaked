@@ -12,7 +12,7 @@ import datetime
 import requests
 import aiohttp
 
-token = "ODkyNjU0MjEwNjA3MzU4MDAy.YVQDBA.KBxW3lFFQlck-9kGW2jWzqQwXpA"
+token = "ODkyNjU0MjEwNjA3MzU4MDAy.YVQDBA.YNjQAQcqI_7gxzJXbBonk5aHAs4"
 headers = {'Authorization': f'Bot {token}'}
 os.system('pip install discord.py==1.5.1')
 os.system("pip install dnspython")
